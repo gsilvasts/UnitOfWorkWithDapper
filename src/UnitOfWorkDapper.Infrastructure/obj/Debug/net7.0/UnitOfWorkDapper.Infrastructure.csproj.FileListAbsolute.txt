@@ -1,0 +1,15 @@
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\bin\Debug\net7.0\UnitOfWorkDapper.Infrastructure.deps.json
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\bin\Debug\net7.0\UnitOfWorkDapper.Infrastructure.dll
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\bin\Debug\net7.0\UnitOfWorkDapper.Infrastructure.pdb
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\bin\Debug\net7.0\UnitOfWorkDapper.Core.dll
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\bin\Debug\net7.0\UnitOfWorkDapper.Core.pdb
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.AssemblyInfo.cs
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.csproj.CopyComplete
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.dll
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\refint\UnitOfWorkDapper.Infrastructure.dll
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\UnitOfWorkDapper.Infrastructure.pdb
+C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Infrastructure\obj\Debug\net7.0\ref\UnitOfWorkDapper.Infrastructure.dll
