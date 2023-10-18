@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RYftOeQUqCi4WMByjNo51EVXcQXzU+Ugn8eg/ggHY8i/wpMu6vamGy7XM3sJh6FHO49wsZym1Xk5hUWvzc9SIw==",
+  "dgSpecHash": "NirEkmNl1TgqYBpbIFXCnQexDVoPUc7LczFElO8t+kFvJFPikS3vx+AXhv5ob0dlc8XhB1arR6hZhduwJp+J/g==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Api\\UnitOfWorkDapper.Api.csproj",
+  "projectFilePath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Api\\UnitOfWorkDapper.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gelva\\.nuget\\packages\\dapper\\2.1.11\\dapper.2.1.11.nupkg.sha512",
     "C:\\Users\\gelva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",

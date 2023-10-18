@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wuscHLmKrvpInzxxFNT294ouN7Hr7Y3mg0gvNQEaoC16UAX/g1dXCPp6eXoTayfDpBZOOt+S0uS+HONirPqyw==",
+  "dgSpecHash": "Q7mzEHERceZGoJdFVKyVIjAxhuJrx1GXh592dRpP68ONjG1WfI3LdTI5/zd/5FzkMfgSo+LYEr2WC2I4ENm6Wg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Infrastructure\\UnitOfWorkDapper.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Infrastructure\\UnitOfWorkDapper.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gelva\\.nuget\\packages\\dapper\\2.1.11\\dapper.2.1.11.nupkg.sha512",
     "C:\\Users\\gelva\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

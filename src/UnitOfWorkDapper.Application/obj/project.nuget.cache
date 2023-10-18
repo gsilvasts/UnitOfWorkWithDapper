@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sC+iMV+EuBhFb6arzyC7o7hkc+JRa4HY0Fx0R0yOibWgmd34wmqZgU+tp23P426GhG6372WviKmowASVtRQXXw==",
+  "dgSpecHash": "5XU8Tlm4K8fpbf1ZsGEizmXMeFJREIRj7VosfqFC5gt9D4k/vUlYem4exG2HzMUZ9l0XuMQux0U69mUdNehaRw==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Application\\UnitOfWorkDapper.Application.csproj",
+  "projectFilePath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Application\\UnitOfWorkDapper.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

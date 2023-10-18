@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Application\\UnitOfWorkDapper.Application.csproj",
+      "projectUniqueName": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Application\\UnitOfWorkDapper.Application.csproj",
       "projectName": "UnitOfWorkDapper.Application",
-      "projectPath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Application\\UnitOfWorkDapper.Application.csproj",
+      "projectPath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Application\\UnitOfWorkDapper.Application.csproj",
       "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Application\\obj\\",
+      "outputPath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj": {
-              "projectPath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj"
+            "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj": {
+              "projectPath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@ C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDa
 C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Core\obj\Debug\net7.0\refint\UnitOfWorkDapper.Core.dll
 C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.pdb
 C:\Projetos\UnitOfWorkDapper\UnitOfWorkDapper.Core\obj\Debug\net7.0\ref\UnitOfWorkDapper.Core.dll
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\bin\Debug\net7.0\UnitOfWorkDapper.Core.deps.json
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\bin\Debug\net7.0\UnitOfWorkDapper.Core.dll
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\bin\Debug\net7.0\UnitOfWorkDapper.Core.pdb
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.csproj.AssemblyReference.cache
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.AssemblyInfoInputs.cache
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.AssemblyInfo.cs
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.dll
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\refint\UnitOfWorkDapper.Core.dll
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\UnitOfWorkDapper.Core.pdb
+C:\Projetos\UnitOfWorkDapper\src\UnitOfWorkDapper.Core\obj\Debug\net7.0\ref\UnitOfWorkDapper.Core.dll

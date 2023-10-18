@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj",
+      "projectUniqueName": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj",
       "projectName": "UnitOfWorkDapper.Core",
-      "projectPath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj",
+      "projectPath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Core\\UnitOfWorkDapper.Core.csproj",
       "packagesPath": "C:\\Users\\gelva\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UnitOfWorkDapper\\UnitOfWorkDapper.Core\\obj\\",
+      "outputPath": "C:\\Projetos\\UnitOfWorkDapper\\src\\UnitOfWorkDapper.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gelva\\AppData\\Roaming\\NuGet\\NuGet.Config",
